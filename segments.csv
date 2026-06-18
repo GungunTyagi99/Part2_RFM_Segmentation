@@ -1,0 +1,2401 @@
+customer_id,segment_name
+CUST00001,At Risk
+CUST00002,Loyal Customers
+CUST00003,Dormant
+CUST00004,Dormant
+CUST00005,Loyal Customers
+CUST00006,Loyal Customers
+CUST00007,Loyal Customers
+CUST00008,Loyal Customers
+CUST00009,Loyal Customers
+CUST00010,Loyal Customers
+CUST00011,Loyal Customers
+CUST00012,Loyal Customers
+CUST00013,Potential Loyalists
+CUST00014,Loyal Customers
+CUST00015,Loyal Customers
+CUST00016,Dormant
+CUST00017,Dormant
+CUST00018,At Risk
+CUST00019,Champions
+CUST00020,Dormant
+CUST00021,Potential Loyalists
+CUST00022,Loyal Customers
+CUST00023,Loyal Customers
+CUST00024,Loyal Customers
+CUST00025,Dormant
+CUST00026,Big Spenders
+CUST00027,Big Spenders
+CUST00028,Potential Loyalists
+CUST00029,Loyal Customers
+CUST00030,Champions
+CUST00031,Loyal Customers
+CUST00032,Loyal Customers
+CUST00033,Champions
+CUST00034,Loyal Customers
+CUST00035,Dormant
+CUST00036,Champions
+CUST00037,At Risk
+CUST00038,Loyal Customers
+CUST00039,Loyal Customers
+CUST00040,Dormant
+CUST00041,Loyal Customers
+CUST00042,Big Spenders
+CUST00043,Loyal Customers
+CUST00044,Potential Loyalists
+CUST00045,At Risk
+CUST00046,Dormant
+CUST00047,Dormant
+CUST00048,Big Spenders
+CUST00049,Loyal Customers
+CUST00050,Champions
+CUST00051,Dormant
+CUST00052,Loyal Customers
+CUST00053,Champions
+CUST00054,Loyal Customers
+CUST00055,Loyal Customers
+CUST00056,Champions
+CUST00057,Dormant
+CUST00058,Loyal Customers
+CUST00059,Loyal Customers
+CUST00060,Dormant
+CUST00061,Champions
+CUST00062,Champions
+CUST00063,Dormant
+CUST00064,Loyal Customers
+CUST00065,Champions
+CUST00066,Dormant
+CUST00067,Potential Loyalists
+CUST00068,Dormant
+CUST00069,Loyal Customers
+CUST00070,Loyal Customers
+CUST00071,Loyal Customers
+CUST00072,Potential Loyalists
+CUST00073,Loyal Customers
+CUST00074,Loyal Customers
+CUST00075,Loyal Customers
+CUST00076,Loyal Customers
+CUST00077,At Risk
+CUST00078,Dormant
+CUST00079,Dormant
+CUST00080,Loyal Customers
+CUST00081,Champions
+CUST00082,Dormant
+CUST00083,Potential Loyalists
+CUST00084,Dormant
+CUST00085,Loyal Customers
+CUST00086,Champions
+CUST00087,Loyal Customers
+CUST00088,At Risk
+CUST00089,Dormant
+CUST00090,Potential Loyalists
+CUST00091,Potential Loyalists
+CUST00092,Loyal Customers
+CUST00093,Potential Loyalists
+CUST00094,Dormant
+CUST00095,Potential Loyalists
+CUST00096,Potential Loyalists
+CUST00097,Champions
+CUST00098,Dormant
+CUST00099,Dormant
+CUST00100,Potential Loyalists
+CUST00101,At Risk
+CUST00102,Potential Loyalists
+CUST00103,Loyal Customers
+CUST00104,At Risk
+CUST00105,Loyal Customers
+CUST00106,Potential Loyalists
+CUST00107,Champions
+CUST00108,Loyal Customers
+CUST00109,At Risk
+CUST00110,Loyal Customers
+CUST00111,Dormant
+CUST00112,Champions
+CUST00113,Champions
+CUST00114,Dormant
+CUST00115,Dormant
+CUST00116,Dormant
+CUST00117,Dormant
+CUST00118,Loyal Customers
+CUST00119,Big Spenders
+CUST00120,Loyal Customers
+CUST00121,Champions
+CUST00122,Big Spenders
+CUST00123,Big Spenders
+CUST00124,Dormant
+CUST00125,Champions
+CUST00126,Loyal Customers
+CUST00127,Loyal Customers
+CUST00128,Champions
+CUST00129,Big Spenders
+CUST00130,Potential Loyalists
+CUST00131,Big Spenders
+CUST00132,At Risk
+CUST00133,Loyal Customers
+CUST00134,Loyal Customers
+CUST00135,Dormant
+CUST00136,Potential Loyalists
+CUST00137,Dormant
+CUST00138,Potential Loyalists
+CUST00139,Champions
+CUST00140,Champions
+CUST00141,Loyal Customers
+CUST00142,Dormant
+CUST00143,Loyal Customers
+CUST00144,Potential Loyalists
+CUST00145,Loyal Customers
+CUST00146,At Risk
+CUST00147,Big Spenders
+CUST00148,Champions
+CUST00149,Loyal Customers
+CUST00150,Loyal Customers
+CUST00151,Big Spenders
+CUST00152,Loyal Customers
+CUST00153,Loyal Customers
+CUST00154,Champions
+CUST00155,Champions
+CUST00156,Loyal Customers
+CUST00157,Loyal Customers
+CUST00158,Dormant
+CUST00159,Dormant
+CUST00160,Dormant
+CUST00161,Champions
+CUST00162,At Risk
+CUST00163,Potential Loyalists
+CUST00164,Dormant
+CUST00165,At Risk
+CUST00166,Loyal Customers
+CUST00167,Dormant
+CUST00168,Big Spenders
+CUST00169,Dormant
+CUST00170,Champions
+CUST00171,Loyal Customers
+CUST00172,Loyal Customers
+CUST00173,Potential Loyalists
+CUST00174,Potential Loyalists
+CUST00175,Loyal Customers
+CUST00176,Loyal Customers
+CUST00177,Potential Loyalists
+CUST00178,Champions
+CUST00179,Loyal Customers
+CUST00180,At Risk
+CUST00181,Loyal Customers
+CUST00182,Loyal Customers
+CUST00183,Dormant
+CUST00184,Champions
+CUST00185,At Risk
+CUST00186,Loyal Customers
+CUST00187,Dormant
+CUST00188,Champions
+CUST00189,Dormant
+CUST00190,Loyal Customers
+CUST00191,Loyal Customers
+CUST00192,Loyal Customers
+CUST00193,Dormant
+CUST00194,Big Spenders
+CUST00195,Loyal Customers
+CUST00196,Loyal Customers
+CUST00197,Champions
+CUST00198,Loyal Customers
+CUST00199,Champions
+CUST00200,Champions
+CUST00201,At Risk
+CUST00202,Dormant
+CUST00203,At Risk
+CUST00204,Loyal Customers
+CUST00205,Champions
+CUST00206,At Risk
+CUST00207,Loyal Customers
+CUST00208,Big Spenders
+CUST00209,Dormant
+CUST00210,Dormant
+CUST00211,Big Spenders
+CUST00212,Dormant
+CUST00213,Potential Loyalists
+CUST00214,Potential Loyalists
+CUST00215,Loyal Customers
+CUST00216,Loyal Customers
+CUST00217,Potential Loyalists
+CUST00218,Loyal Customers
+CUST00219,Dormant
+CUST00220,Loyal Customers
+CUST00221,Loyal Customers
+CUST00222,Dormant
+CUST00223,At Risk
+CUST00224,Potential Loyalists
+CUST00225,Big Spenders
+CUST00226,Loyal Customers
+CUST00227,Dormant
+CUST00228,Potential Loyalists
+CUST00229,At Risk
+CUST00230,Loyal Customers
+CUST00231,Loyal Customers
+CUST00232,Loyal Customers
+CUST00233,Dormant
+CUST00234,Loyal Customers
+CUST00235,Dormant
+CUST00236,Potential Loyalists
+CUST00237,Champions
+CUST00238,Potential Loyalists
+CUST00239,Dormant
+CUST00240,Loyal Customers
+CUST00241,Champions
+CUST00242,Big Spenders
+CUST00243,Potential Loyalists
+CUST00244,Big Spenders
+CUST00245,Potential Loyalists
+CUST00246,Loyal Customers
+CUST00247,Loyal Customers
+CUST00248,Potential Loyalists
+CUST00249,Dormant
+CUST00250,Loyal Customers
+CUST00251,Loyal Customers
+CUST00252,Dormant
+CUST00253,Dormant
+CUST00254,Dormant
+CUST00255,Champions
+CUST00256,Dormant
+CUST00257,Loyal Customers
+CUST00258,Loyal Customers
+CUST00259,Dormant
+CUST00260,Champions
+CUST00261,Loyal Customers
+CUST00262,Loyal Customers
+CUST00263,Champions
+CUST00264,Loyal Customers
+CUST00265,Potential Loyalists
+CUST00266,Big Spenders
+CUST00267,Loyal Customers
+CUST00268,Champions
+CUST00269,Champions
+CUST00270,Potential Loyalists
+CUST00271,Loyal Customers
+CUST00272,Champions
+CUST00273,Champions
+CUST00274,Potential Loyalists
+CUST00275,Dormant
+CUST00276,Loyal Customers
+CUST00277,Loyal Customers
+CUST00278,Potential Loyalists
+CUST00279,Champions
+CUST00280,Champions
+CUST00281,Loyal Customers
+CUST00282,Dormant
+CUST00283,Champions
+CUST00284,Dormant
+CUST00285,Loyal Customers
+CUST00286,Dormant
+CUST00287,Big Spenders
+CUST00288,At Risk
+CUST00289,Loyal Customers
+CUST00290,Loyal Customers
+CUST00291,Loyal Customers
+CUST00292,Loyal Customers
+CUST00293,Dormant
+CUST00294,At Risk
+CUST00295,Loyal Customers
+CUST00296,Dormant
+CUST00297,Dormant
+CUST00298,Dormant
+CUST00299,Dormant
+CUST00300,Loyal Customers
+CUST00301,Loyal Customers
+CUST00302,Dormant
+CUST00303,Loyal Customers
+CUST00304,Potential Loyalists
+CUST00305,Dormant
+CUST00306,Champions
+CUST00307,Loyal Customers
+CUST00308,Potential Loyalists
+CUST00309,Loyal Customers
+CUST00310,Loyal Customers
+CUST00311,Loyal Customers
+CUST00312,Potential Loyalists
+CUST00313,Dormant
+CUST00314,Loyal Customers
+CUST00315,Champions
+CUST00316,At Risk
+CUST00317,At Risk
+CUST00318,Loyal Customers
+CUST00319,Dormant
+CUST00320,Loyal Customers
+CUST00321,At Risk
+CUST00322,Champions
+CUST00323,Champions
+CUST00324,Dormant
+CUST00325,Loyal Customers
+CUST00326,Dormant
+CUST00327,Loyal Customers
+CUST00328,Dormant
+CUST00329,Loyal Customers
+CUST00330,Potential Loyalists
+CUST00331,Dormant
+CUST00332,Champions
+CUST00333,Potential Loyalists
+CUST00334,Potential Loyalists
+CUST00335,Dormant
+CUST00336,Loyal Customers
+CUST00337,Champions
+CUST00338,Loyal Customers
+CUST00339,At Risk
+CUST00340,Loyal Customers
+CUST00341,Loyal Customers
+CUST00342,Champions
+CUST00343,At Risk
+CUST00344,Dormant
+CUST00345,Champions
+CUST00346,Potential Loyalists
+CUST00347,Dormant
+CUST00348,Champions
+CUST00349,Big Spenders
+CUST00350,Loyal Customers
+CUST00351,Champions
+CUST00352,Loyal Customers
+CUST00353,At Risk
+CUST00354,Loyal Customers
+CUST00355,Dormant
+CUST00356,Champions
+CUST00357,Loyal Customers
+CUST00358,At Risk
+CUST00359,Champions
+CUST00360,Champions
+CUST00361,Dormant
+CUST00362,Champions
+CUST00363,Loyal Customers
+CUST00364,Dormant
+CUST00365,Dormant
+CUST00366,Big Spenders
+CUST00367,Dormant
+CUST00368,Loyal Customers
+CUST00369,Potential Loyalists
+CUST00370,Dormant
+CUST00371,Dormant
+CUST00372,Loyal Customers
+CUST00373,Potential Loyalists
+CUST00374,Dormant
+CUST00375,Potential Loyalists
+CUST00376,Loyal Customers
+CUST00377,Potential Loyalists
+CUST00378,At Risk
+CUST00379,Potential Loyalists
+CUST00380,Loyal Customers
+CUST00381,Dormant
+CUST00382,Loyal Customers
+CUST00383,Champions
+CUST00384,Loyal Customers
+CUST00385,Potential Loyalists
+CUST00386,Loyal Customers
+CUST00387,Loyal Customers
+CUST00388,Loyal Customers
+CUST00389,Champions
+CUST00390,Loyal Customers
+CUST00391,Champions
+CUST00392,Dormant
+CUST00393,Champions
+CUST00394,Loyal Customers
+CUST00395,Loyal Customers
+CUST00396,Champions
+CUST00397,Potential Loyalists
+CUST00398,Champions
+CUST00399,Dormant
+CUST00400,Loyal Customers
+CUST00401,Potential Loyalists
+CUST00402,Dormant
+CUST00403,Champions
+CUST00404,Dormant
+CUST00405,Loyal Customers
+CUST00406,Loyal Customers
+CUST00407,Champions
+CUST00408,Loyal Customers
+CUST00409,Loyal Customers
+CUST00410,Loyal Customers
+CUST00411,Dormant
+CUST00412,Dormant
+CUST00413,Loyal Customers
+CUST00414,Loyal Customers
+CUST00415,At Risk
+CUST00416,Loyal Customers
+CUST00417,Dormant
+CUST00418,Champions
+CUST00419,At Risk
+CUST00420,Loyal Customers
+CUST00421,Champions
+CUST00422,Dormant
+CUST00423,Dormant
+CUST00424,At Risk
+CUST00425,At Risk
+CUST00426,Potential Loyalists
+CUST00427,Loyal Customers
+CUST00428,Potential Loyalists
+CUST00429,Loyal Customers
+CUST00430,Champions
+CUST00431,Dormant
+CUST00432,Big Spenders
+CUST00433,Loyal Customers
+CUST00434,Dormant
+CUST00435,Dormant
+CUST00436,Loyal Customers
+CUST00437,Dormant
+CUST00438,Big Spenders
+CUST00439,At Risk
+CUST00440,Potential Loyalists
+CUST00441,Dormant
+CUST00442,Potential Loyalists
+CUST00443,Dormant
+CUST00444,Dormant
+CUST00445,Champions
+CUST00446,Loyal Customers
+CUST00447,Loyal Customers
+CUST00448,Dormant
+CUST00449,Dormant
+CUST00450,Loyal Customers
+CUST00451,Champions
+CUST00452,Dormant
+CUST00453,Champions
+CUST00454,Champions
+CUST00455,Dormant
+CUST00456,Dormant
+CUST00457,Dormant
+CUST00458,Loyal Customers
+CUST00459,Dormant
+CUST00460,Champions
+CUST00461,Dormant
+CUST00462,Loyal Customers
+CUST00463,Champions
+CUST00464,At Risk
+CUST00465,Dormant
+CUST00466,Champions
+CUST00467,Loyal Customers
+CUST00468,Dormant
+CUST00469,Champions
+CUST00470,Dormant
+CUST00471,Dormant
+CUST00472,At Risk
+CUST00473,Dormant
+CUST00474,Champions
+CUST00475,Loyal Customers
+CUST00476,Dormant
+CUST00477,Loyal Customers
+CUST00478,Loyal Customers
+CUST00479,Dormant
+CUST00480,Dormant
+CUST00481,Loyal Customers
+CUST00482,Loyal Customers
+CUST00483,At Risk
+CUST00484,Potential Loyalists
+CUST00485,Dormant
+CUST00486,Loyal Customers
+CUST00487,Loyal Customers
+CUST00488,Dormant
+CUST00489,Dormant
+CUST00490,Loyal Customers
+CUST00491,At Risk
+CUST00492,Potential Loyalists
+CUST00493,At Risk
+CUST00494,Loyal Customers
+CUST00495,Loyal Customers
+CUST00496,Loyal Customers
+CUST00497,Dormant
+CUST00498,Loyal Customers
+CUST00499,Champions
+CUST00500,Loyal Customers
+CUST00501,Champions
+CUST00502,Champions
+CUST00503,Loyal Customers
+CUST00504,Champions
+CUST00505,Dormant
+CUST00506,Loyal Customers
+CUST00507,Big Spenders
+CUST00508,Dormant
+CUST00509,Loyal Customers
+CUST00510,Dormant
+CUST00511,Loyal Customers
+CUST00512,Champions
+CUST00513,Champions
+CUST00514,At Risk
+CUST00515,Champions
+CUST00516,Loyal Customers
+CUST00517,Loyal Customers
+CUST00518,Loyal Customers
+CUST00519,Potential Loyalists
+CUST00520,Loyal Customers
+CUST00521,Loyal Customers
+CUST00522,Dormant
+CUST00523,Loyal Customers
+CUST00524,Loyal Customers
+CUST00525,Dormant
+CUST00526,Loyal Customers
+CUST00527,At Risk
+CUST00528,Loyal Customers
+CUST00529,Potential Loyalists
+CUST00530,Loyal Customers
+CUST00531,Loyal Customers
+CUST00532,At Risk
+CUST00533,Loyal Customers
+CUST00534,Potential Loyalists
+CUST00535,Dormant
+CUST00536,Loyal Customers
+CUST00537,Loyal Customers
+CUST00538,Potential Loyalists
+CUST00539,Big Spenders
+CUST00540,Loyal Customers
+CUST00541,Big Spenders
+CUST00542,Loyal Customers
+CUST00543,Dormant
+CUST00544,Potential Loyalists
+CUST00545,Loyal Customers
+CUST00546,Champions
+CUST00547,Loyal Customers
+CUST00548,Dormant
+CUST00549,Dormant
+CUST00550,Loyal Customers
+CUST00551,Loyal Customers
+CUST00552,Loyal Customers
+CUST00553,Dormant
+CUST00554,Loyal Customers
+CUST00555,Loyal Customers
+CUST00556,Loyal Customers
+CUST00557,Loyal Customers
+CUST00558,Dormant
+CUST00559,Loyal Customers
+CUST00560,Dormant
+CUST00561,Loyal Customers
+CUST00562,Dormant
+CUST00563,At Risk
+CUST00564,Dormant
+CUST00565,Loyal Customers
+CUST00566,Loyal Customers
+CUST00567,Champions
+CUST00568,Loyal Customers
+CUST00569,At Risk
+CUST00570,Dormant
+CUST00571,Loyal Customers
+CUST00572,Loyal Customers
+CUST00573,Dormant
+CUST00574,Champions
+CUST00575,Potential Loyalists
+CUST00576,Loyal Customers
+CUST00577,Potential Loyalists
+CUST00578,Dormant
+CUST00579,Loyal Customers
+CUST00580,Potential Loyalists
+CUST00581,Potential Loyalists
+CUST00582,Dormant
+CUST00583,Dormant
+CUST00584,Potential Loyalists
+CUST00585,At Risk
+CUST00586,Dormant
+CUST00587,Loyal Customers
+CUST00588,Potential Loyalists
+CUST00589,Potential Loyalists
+CUST00590,Dormant
+CUST00591,Potential Loyalists
+CUST00592,Loyal Customers
+CUST00593,Champions
+CUST00594,At Risk
+CUST00595,Loyal Customers
+CUST00596,Loyal Customers
+CUST00597,Loyal Customers
+CUST00598,Loyal Customers
+CUST00599,Big Spenders
+CUST00600,Dormant
+CUST00601,Potential Loyalists
+CUST00602,At Risk
+CUST00603,Champions
+CUST00604,Potential Loyalists
+CUST00605,Dormant
+CUST00606,At Risk
+CUST00607,Dormant
+CUST00608,Loyal Customers
+CUST00609,Champions
+CUST00610,Champions
+CUST00611,Dormant
+CUST00612,Loyal Customers
+CUST00613,Champions
+CUST00614,Dormant
+CUST00615,Loyal Customers
+CUST00616,Loyal Customers
+CUST00617,Champions
+CUST00618,At Risk
+CUST00619,Loyal Customers
+CUST00620,Potential Loyalists
+CUST00621,At Risk
+CUST00622,Dormant
+CUST00623,At Risk
+CUST00624,Dormant
+CUST00625,Potential Loyalists
+CUST00626,Loyal Customers
+CUST00627,Potential Loyalists
+CUST00628,Loyal Customers
+CUST00629,Loyal Customers
+CUST00630,At Risk
+CUST00631,Potential Loyalists
+CUST00632,Potential Loyalists
+CUST00633,Loyal Customers
+CUST00634,At Risk
+CUST00635,Dormant
+CUST00636,Big Spenders
+CUST00637,Loyal Customers
+CUST00638,Dormant
+CUST00639,Dormant
+CUST00640,Dormant
+CUST00641,Loyal Customers
+CUST00642,Champions
+CUST00643,Dormant
+CUST00644,Potential Loyalists
+CUST00645,Dormant
+CUST00646,At Risk
+CUST00647,Potential Loyalists
+CUST00648,Loyal Customers
+CUST00649,Dormant
+CUST00650,Loyal Customers
+CUST00651,Loyal Customers
+CUST00652,Big Spenders
+CUST00653,Loyal Customers
+CUST00654,Champions
+CUST00655,Potential Loyalists
+CUST00656,Potential Loyalists
+CUST00657,Potential Loyalists
+CUST00658,Dormant
+CUST00659,Loyal Customers
+CUST00660,Loyal Customers
+CUST00661,Dormant
+CUST00662,Dormant
+CUST00663,Potential Loyalists
+CUST00664,Loyal Customers
+CUST00665,Loyal Customers
+CUST00666,Loyal Customers
+CUST00667,Loyal Customers
+CUST00668,Loyal Customers
+CUST00669,Loyal Customers
+CUST00670,Dormant
+CUST00671,Champions
+CUST00672,Dormant
+CUST00673,At Risk
+CUST00674,Loyal Customers
+CUST00675,Big Spenders
+CUST00676,Loyal Customers
+CUST00677,Loyal Customers
+CUST00678,Dormant
+CUST00679,Big Spenders
+CUST00680,Dormant
+CUST00681,Dormant
+CUST00682,Loyal Customers
+CUST00683,Champions
+CUST00684,Dormant
+CUST00685,Loyal Customers
+CUST00686,Dormant
+CUST00687,Big Spenders
+CUST00688,Champions
+CUST00689,Big Spenders
+CUST00690,Champions
+CUST00691,Potential Loyalists
+CUST00692,Loyal Customers
+CUST00693,Dormant
+CUST00694,Potential Loyalists
+CUST00695,Dormant
+CUST00696,Loyal Customers
+CUST00697,Dormant
+CUST00698,Champions
+CUST00699,Loyal Customers
+CUST00700,Loyal Customers
+CUST00701,Dormant
+CUST00702,Potential Loyalists
+CUST00703,At Risk
+CUST00704,Loyal Customers
+CUST00705,Loyal Customers
+CUST00706,Loyal Customers
+CUST00707,Dormant
+CUST00708,Loyal Customers
+CUST00709,Dormant
+CUST00710,Champions
+CUST00711,Champions
+CUST00712,Loyal Customers
+CUST00713,Champions
+CUST00714,Loyal Customers
+CUST00715,Loyal Customers
+CUST00716,Loyal Customers
+CUST00717,Loyal Customers
+CUST00718,At Risk
+CUST00719,Dormant
+CUST00720,Dormant
+CUST00721,Champions
+CUST00722,Loyal Customers
+CUST00723,Potential Loyalists
+CUST00724,Loyal Customers
+CUST00725,Dormant
+CUST00726,Big Spenders
+CUST00727,Champions
+CUST00728,Potential Loyalists
+CUST00729,Dormant
+CUST00730,Dormant
+CUST00731,Dormant
+CUST00732,Loyal Customers
+CUST00733,Potential Loyalists
+CUST00734,Big Spenders
+CUST00735,Loyal Customers
+CUST00736,Potential Loyalists
+CUST00737,Loyal Customers
+CUST00738,Potential Loyalists
+CUST00739,Loyal Customers
+CUST00740,Dormant
+CUST00741,Dormant
+CUST00742,Loyal Customers
+CUST00743,Loyal Customers
+CUST00744,Potential Loyalists
+CUST00745,Loyal Customers
+CUST00746,Dormant
+CUST00747,Loyal Customers
+CUST00748,Loyal Customers
+CUST00749,Loyal Customers
+CUST00750,Loyal Customers
+CUST00751,Loyal Customers
+CUST00752,At Risk
+CUST00753,Dormant
+CUST00754,Loyal Customers
+CUST00755,Dormant
+CUST00756,At Risk
+CUST00757,Loyal Customers
+CUST00758,Potential Loyalists
+CUST00759,Loyal Customers
+CUST00760,Dormant
+CUST00761,Dormant
+CUST00762,Loyal Customers
+CUST00763,Dormant
+CUST00764,Loyal Customers
+CUST00765,Big Spenders
+CUST00766,Dormant
+CUST00767,Potential Loyalists
+CUST00768,Loyal Customers
+CUST00769,Loyal Customers
+CUST00770,Champions
+CUST00771,Potential Loyalists
+CUST00772,Dormant
+CUST00773,Potential Loyalists
+CUST00774,At Risk
+CUST00775,Loyal Customers
+CUST00776,Dormant
+CUST00777,Loyal Customers
+CUST00778,Dormant
+CUST00779,Loyal Customers
+CUST00780,Loyal Customers
+CUST00781,Loyal Customers
+CUST00782,Dormant
+CUST00783,Dormant
+CUST00784,Loyal Customers
+CUST00785,Loyal Customers
+CUST00786,Dormant
+CUST00787,Loyal Customers
+CUST00788,Loyal Customers
+CUST00789,Loyal Customers
+CUST00790,Potential Loyalists
+CUST00791,Dormant
+CUST00792,Dormant
+CUST00793,At Risk
+CUST00794,Dormant
+CUST00795,Big Spenders
+CUST00796,Dormant
+CUST00797,Loyal Customers
+CUST00798,Loyal Customers
+CUST00799,Loyal Customers
+CUST00800,Champions
+CUST00801,Potential Loyalists
+CUST00802,Dormant
+CUST00803,Loyal Customers
+CUST00804,Loyal Customers
+CUST00805,Loyal Customers
+CUST00806,Loyal Customers
+CUST00807,At Risk
+CUST00808,Loyal Customers
+CUST00809,Champions
+CUST00810,Dormant
+CUST00811,Dormant
+CUST00812,Dormant
+CUST00813,Champions
+CUST00814,Big Spenders
+CUST00815,Big Spenders
+CUST00816,Loyal Customers
+CUST00817,Champions
+CUST00818,Dormant
+CUST00819,Champions
+CUST00820,Dormant
+CUST00821,At Risk
+CUST00822,Potential Loyalists
+CUST00823,Dormant
+CUST00824,Loyal Customers
+CUST00825,At Risk
+CUST00826,Big Spenders
+CUST00827,Loyal Customers
+CUST00828,Potential Loyalists
+CUST00829,Big Spenders
+CUST00830,Loyal Customers
+CUST00831,Loyal Customers
+CUST00832,Loyal Customers
+CUST00833,Potential Loyalists
+CUST00834,Loyal Customers
+CUST00835,Dormant
+CUST00836,Champions
+CUST00837,Loyal Customers
+CUST00838,Loyal Customers
+CUST00839,Dormant
+CUST00840,Loyal Customers
+CUST00841,Big Spenders
+CUST00842,Potential Loyalists
+CUST00843,Loyal Customers
+CUST00844,Loyal Customers
+CUST00845,At Risk
+CUST00846,Loyal Customers
+CUST00847,Loyal Customers
+CUST00848,Loyal Customers
+CUST00849,Champions
+CUST00850,Champions
+CUST00851,Loyal Customers
+CUST00852,Potential Loyalists
+CUST00853,Potential Loyalists
+CUST00854,Dormant
+CUST00855,Dormant
+CUST00856,Big Spenders
+CUST00857,Potential Loyalists
+CUST00858,Potential Loyalists
+CUST00859,Dormant
+CUST00860,Potential Loyalists
+CUST00861,Dormant
+CUST00862,Dormant
+CUST00863,Champions
+CUST00864,Dormant
+CUST00865,Loyal Customers
+CUST00866,Loyal Customers
+CUST00867,Loyal Customers
+CUST00868,Loyal Customers
+CUST00869,At Risk
+CUST00870,Big Spenders
+CUST00871,Dormant
+CUST00872,Dormant
+CUST00873,Champions
+CUST00874,Loyal Customers
+CUST00875,Loyal Customers
+CUST00876,Loyal Customers
+CUST00877,Potential Loyalists
+CUST00878,Big Spenders
+CUST00879,Big Spenders
+CUST00880,Champions
+CUST00881,Loyal Customers
+CUST00882,Potential Loyalists
+CUST00883,Big Spenders
+CUST00884,Dormant
+CUST00885,Loyal Customers
+CUST00886,Loyal Customers
+CUST00887,Loyal Customers
+CUST00888,At Risk
+CUST00889,Loyal Customers
+CUST00890,Loyal Customers
+CUST00891,Loyal Customers
+CUST00892,Loyal Customers
+CUST00893,At Risk
+CUST00894,Champions
+CUST00895,Loyal Customers
+CUST00896,Champions
+CUST00897,Loyal Customers
+CUST00898,Dormant
+CUST00899,Dormant
+CUST00900,Loyal Customers
+CUST00901,Loyal Customers
+CUST00902,Loyal Customers
+CUST00903,Loyal Customers
+CUST00904,Loyal Customers
+CUST00905,Champions
+CUST00906,Loyal Customers
+CUST00907,Dormant
+CUST00908,Champions
+CUST00909,Dormant
+CUST00910,Dormant
+CUST00911,Champions
+CUST00912,Dormant
+CUST00913,Dormant
+CUST00914,Loyal Customers
+CUST00915,At Risk
+CUST00916,Loyal Customers
+CUST00917,Dormant
+CUST00918,Dormant
+CUST00919,Champions
+CUST00920,Potential Loyalists
+CUST00921,Dormant
+CUST00922,Loyal Customers
+CUST00923,Loyal Customers
+CUST00924,Loyal Customers
+CUST00925,Loyal Customers
+CUST00926,Champions
+CUST00927,Dormant
+CUST00928,Dormant
+CUST00929,Loyal Customers
+CUST00930,Loyal Customers
+CUST00931,Loyal Customers
+CUST00932,Potential Loyalists
+CUST00933,Dormant
+CUST00934,Loyal Customers
+CUST00935,Champions
+CUST00936,Loyal Customers
+CUST00937,Dormant
+CUST00938,Champions
+CUST00939,Loyal Customers
+CUST00940,Dormant
+CUST00941,Dormant
+CUST00942,Loyal Customers
+CUST00943,Dormant
+CUST00944,Potential Loyalists
+CUST00945,Loyal Customers
+CUST00946,Dormant
+CUST00947,Loyal Customers
+CUST00948,Potential Loyalists
+CUST00949,Dormant
+CUST00950,Dormant
+CUST00951,Potential Loyalists
+CUST00952,Loyal Customers
+CUST00953,Champions
+CUST00954,Loyal Customers
+CUST00955,Potential Loyalists
+CUST00956,Loyal Customers
+CUST00957,Loyal Customers
+CUST00958,Dormant
+CUST00959,Potential Loyalists
+CUST00960,Dormant
+CUST00961,Dormant
+CUST00962,Loyal Customers
+CUST00963,At Risk
+CUST00964,Dormant
+CUST00965,Loyal Customers
+CUST00966,Loyal Customers
+CUST00967,Dormant
+CUST00968,At Risk
+CUST00969,Loyal Customers
+CUST00970,Dormant
+CUST00971,Big Spenders
+CUST00972,Potential Loyalists
+CUST00973,Loyal Customers
+CUST00974,Big Spenders
+CUST00975,Loyal Customers
+CUST00976,Loyal Customers
+CUST00977,Loyal Customers
+CUST00978,Dormant
+CUST00979,At Risk
+CUST00980,Potential Loyalists
+CUST00981,At Risk
+CUST00982,Potential Loyalists
+CUST00983,Dormant
+CUST00984,Loyal Customers
+CUST00985,Potential Loyalists
+CUST00986,Potential Loyalists
+CUST00987,Champions
+CUST00988,Champions
+CUST00989,Dormant
+CUST00990,Big Spenders
+CUST00991,Loyal Customers
+CUST00992,Dormant
+CUST00993,Dormant
+CUST00994,Loyal Customers
+CUST00995,Dormant
+CUST00996,Champions
+CUST00997,Dormant
+CUST00998,Big Spenders
+CUST00999,Dormant
+CUST01000,Loyal Customers
+CUST01001,Dormant
+CUST01002,Potential Loyalists
+CUST01003,Dormant
+CUST01004,Dormant
+CUST01005,Dormant
+CUST01006,Loyal Customers
+CUST01007,Potential Loyalists
+CUST01008,Dormant
+CUST01009,Loyal Customers
+CUST01010,Loyal Customers
+CUST01011,Dormant
+CUST01012,Loyal Customers
+CUST01013,Dormant
+CUST01014,Dormant
+CUST01015,Loyal Customers
+CUST01016,Loyal Customers
+CUST01017,Dormant
+CUST01018,Loyal Customers
+CUST01019,Dormant
+CUST01020,Dormant
+CUST01021,Loyal Customers
+CUST01022,Dormant
+CUST01023,Dormant
+CUST01024,Loyal Customers
+CUST01025,Champions
+CUST01026,Potential Loyalists
+CUST01027,Loyal Customers
+CUST01028,Big Spenders
+CUST01029,At Risk
+CUST01030,Loyal Customers
+CUST01031,Dormant
+CUST01032,Loyal Customers
+CUST01033,Champions
+CUST01034,At Risk
+CUST01035,Loyal Customers
+CUST01036,Big Spenders
+CUST01037,Loyal Customers
+CUST01038,Loyal Customers
+CUST01039,Dormant
+CUST01040,Dormant
+CUST01041,Dormant
+CUST01042,Loyal Customers
+CUST01043,Potential Loyalists
+CUST01044,Big Spenders
+CUST01045,Dormant
+CUST01046,At Risk
+CUST01047,Dormant
+CUST01048,Dormant
+CUST01049,Dormant
+CUST01050,Champions
+CUST01051,At Risk
+CUST01052,Dormant
+CUST01053,Big Spenders
+CUST01054,Dormant
+CUST01055,Dormant
+CUST01056,Big Spenders
+CUST01057,Loyal Customers
+CUST01058,At Risk
+CUST01059,Dormant
+CUST01060,Loyal Customers
+CUST01061,Loyal Customers
+CUST01062,Dormant
+CUST01063,Loyal Customers
+CUST01064,Loyal Customers
+CUST01065,Loyal Customers
+CUST01066,Loyal Customers
+CUST01067,Loyal Customers
+CUST01068,Dormant
+CUST01069,Loyal Customers
+CUST01070,Loyal Customers
+CUST01071,Loyal Customers
+CUST01072,Dormant
+CUST01073,Big Spenders
+CUST01074,At Risk
+CUST01075,Loyal Customers
+CUST01076,Potential Loyalists
+CUST01077,Potential Loyalists
+CUST01078,Dormant
+CUST01079,Dormant
+CUST01080,At Risk
+CUST01081,Loyal Customers
+CUST01082,Loyal Customers
+CUST01083,Dormant
+CUST01084,Potential Loyalists
+CUST01085,Dormant
+CUST01086,Potential Loyalists
+CUST01087,Loyal Customers
+CUST01088,Loyal Customers
+CUST01089,Loyal Customers
+CUST01090,Dormant
+CUST01091,Potential Loyalists
+CUST01092,Dormant
+CUST01093,Dormant
+CUST01094,Potential Loyalists
+CUST01095,Loyal Customers
+CUST01096,Champions
+CUST01097,Dormant
+CUST01098,Dormant
+CUST01099,Champions
+CUST01100,Loyal Customers
+CUST01101,Loyal Customers
+CUST01102,Potential Loyalists
+CUST01103,Potential Loyalists
+CUST01104,At Risk
+CUST01105,Potential Loyalists
+CUST01106,Potential Loyalists
+CUST01107,At Risk
+CUST01108,Loyal Customers
+CUST01109,Loyal Customers
+CUST01110,Dormant
+CUST01111,At Risk
+CUST01112,Loyal Customers
+CUST01113,At Risk
+CUST01114,Dormant
+CUST01115,Champions
+CUST01116,Loyal Customers
+CUST01117,Loyal Customers
+CUST01118,Dormant
+CUST01119,Dormant
+CUST01120,Potential Loyalists
+CUST01121,Potential Loyalists
+CUST01122,Loyal Customers
+CUST01123,Dormant
+CUST01124,Dormant
+CUST01125,Dormant
+CUST01126,Champions
+CUST01127,Dormant
+CUST01128,Dormant
+CUST01129,Dormant
+CUST01130,At Risk
+CUST01131,Loyal Customers
+CUST01132,Champions
+CUST01133,Loyal Customers
+CUST01134,Big Spenders
+CUST01135,Big Spenders
+CUST01136,Big Spenders
+CUST01137,At Risk
+CUST01138,Dormant
+CUST01139,Champions
+CUST01140,Champions
+CUST01141,At Risk
+CUST01142,Loyal Customers
+CUST01143,Loyal Customers
+CUST01144,Loyal Customers
+CUST01145,Dormant
+CUST01146,Champions
+CUST01147,Loyal Customers
+CUST01148,Big Spenders
+CUST01149,Potential Loyalists
+CUST01150,Dormant
+CUST01151,At Risk
+CUST01152,Champions
+CUST01153,Loyal Customers
+CUST01154,Loyal Customers
+CUST01155,Loyal Customers
+CUST01156,Loyal Customers
+CUST01157,Loyal Customers
+CUST01158,Loyal Customers
+CUST01159,Potential Loyalists
+CUST01160,Dormant
+CUST01161,Dormant
+CUST01162,Dormant
+CUST01163,Dormant
+CUST01164,Loyal Customers
+CUST01165,Dormant
+CUST01166,Loyal Customers
+CUST01167,Champions
+CUST01168,Loyal Customers
+CUST01169,Loyal Customers
+CUST01170,Dormant
+CUST01171,Dormant
+CUST01172,Champions
+CUST01173,Potential Loyalists
+CUST01174,Potential Loyalists
+CUST01175,Loyal Customers
+CUST01176,Dormant
+CUST01177,Loyal Customers
+CUST01178,Potential Loyalists
+CUST01179,At Risk
+CUST01180,Champions
+CUST01181,Dormant
+CUST01182,At Risk
+CUST01183,Loyal Customers
+CUST01184,Champions
+CUST01185,Loyal Customers
+CUST01186,Big Spenders
+CUST01187,Champions
+CUST01188,At Risk
+CUST01189,Big Spenders
+CUST01190,Loyal Customers
+CUST01191,Loyal Customers
+CUST01192,Loyal Customers
+CUST01193,Dormant
+CUST01194,Potential Loyalists
+CUST01195,At Risk
+CUST01196,Big Spenders
+CUST01197,Potential Loyalists
+CUST01198,Loyal Customers
+CUST01199,Dormant
+CUST01200,Loyal Customers
+CUST01201,Dormant
+CUST01202,Dormant
+CUST01203,Loyal Customers
+CUST01204,Potential Loyalists
+CUST01205,Dormant
+CUST01206,Potential Loyalists
+CUST01207,At Risk
+CUST01208,At Risk
+CUST01209,Loyal Customers
+CUST01210,Dormant
+CUST01211,Champions
+CUST01212,Champions
+CUST01213,Dormant
+CUST01214,Dormant
+CUST01215,Potential Loyalists
+CUST01216,At Risk
+CUST01217,Dormant
+CUST01218,Loyal Customers
+CUST01219,Potential Loyalists
+CUST01220,At Risk
+CUST01221,Loyal Customers
+CUST01222,Loyal Customers
+CUST01223,At Risk
+CUST01224,Loyal Customers
+CUST01225,At Risk
+CUST01226,Loyal Customers
+CUST01227,Loyal Customers
+CUST01228,Dormant
+CUST01229,Dormant
+CUST01230,At Risk
+CUST01231,Dormant
+CUST01232,Dormant
+CUST01233,Potential Loyalists
+CUST01234,At Risk
+CUST01235,Dormant
+CUST01236,Loyal Customers
+CUST01237,At Risk
+CUST01238,Big Spenders
+CUST01239,Dormant
+CUST01240,Loyal Customers
+CUST01241,Loyal Customers
+CUST01242,Champions
+CUST01243,Potential Loyalists
+CUST01244,Loyal Customers
+CUST01245,Dormant
+CUST01246,Dormant
+CUST01247,Loyal Customers
+CUST01248,At Risk
+CUST01249,Loyal Customers
+CUST01250,Dormant
+CUST01251,Loyal Customers
+CUST01252,Loyal Customers
+CUST01253,Big Spenders
+CUST01254,Big Spenders
+CUST01255,Big Spenders
+CUST01256,Dormant
+CUST01257,Loyal Customers
+CUST01258,Dormant
+CUST01259,At Risk
+CUST01260,Loyal Customers
+CUST01261,Loyal Customers
+CUST01262,Loyal Customers
+CUST01263,Loyal Customers
+CUST01264,Loyal Customers
+CUST01265,Loyal Customers
+CUST01266,Loyal Customers
+CUST01267,Loyal Customers
+CUST01268,Loyal Customers
+CUST01269,Loyal Customers
+CUST01270,Loyal Customers
+CUST01271,Loyal Customers
+CUST01272,Loyal Customers
+CUST01273,Dormant
+CUST01274,Loyal Customers
+CUST01275,Loyal Customers
+CUST01276,At Risk
+CUST01277,At Risk
+CUST01278,Potential Loyalists
+CUST01279,At Risk
+CUST01280,Loyal Customers
+CUST01281,Dormant
+CUST01282,Potential Loyalists
+CUST01283,Loyal Customers
+CUST01284,Dormant
+CUST01285,Dormant
+CUST01286,Dormant
+CUST01287,Potential Loyalists
+CUST01288,Dormant
+CUST01289,Loyal Customers
+CUST01290,Loyal Customers
+CUST01291,Dormant
+CUST01292,Loyal Customers
+CUST01293,Loyal Customers
+CUST01294,Loyal Customers
+CUST01295,Dormant
+CUST01296,Loyal Customers
+CUST01297,Champions
+CUST01298,Dormant
+CUST01299,Dormant
+CUST01300,Loyal Customers
+CUST01301,Potential Loyalists
+CUST01302,Champions
+CUST01303,Loyal Customers
+CUST01304,Loyal Customers
+CUST01305,Loyal Customers
+CUST01306,Loyal Customers
+CUST01307,Dormant
+CUST01308,At Risk
+CUST01309,Potential Loyalists
+CUST01310,Dormant
+CUST01311,Loyal Customers
+CUST01312,Champions
+CUST01313,Loyal Customers
+CUST01314,Loyal Customers
+CUST01315,Dormant
+CUST01316,At Risk
+CUST01317,Dormant
+CUST01318,Dormant
+CUST01319,At Risk
+CUST01320,Dormant
+CUST01321,At Risk
+CUST01322,At Risk
+CUST01323,Dormant
+CUST01324,Dormant
+CUST01325,Dormant
+CUST01326,Dormant
+CUST01327,Big Spenders
+CUST01328,Loyal Customers
+CUST01329,Potential Loyalists
+CUST01330,Champions
+CUST01331,Champions
+CUST01332,Champions
+CUST01333,Loyal Customers
+CUST01334,Dormant
+CUST01335,Big Spenders
+CUST01336,Loyal Customers
+CUST01337,Loyal Customers
+CUST01338,Loyal Customers
+CUST01339,Dormant
+CUST01340,Potential Loyalists
+CUST01341,Loyal Customers
+CUST01342,Potential Loyalists
+CUST01343,Loyal Customers
+CUST01344,Dormant
+CUST01345,Loyal Customers
+CUST01346,Loyal Customers
+CUST01347,Dormant
+CUST01348,Dormant
+CUST01349,Big Spenders
+CUST01350,Dormant
+CUST01351,Loyal Customers
+CUST01352,Dormant
+CUST01353,Potential Loyalists
+CUST01354,Loyal Customers
+CUST01355,Potential Loyalists
+CUST01356,Loyal Customers
+CUST01357,Dormant
+CUST01358,Loyal Customers
+CUST01359,At Risk
+CUST01360,Dormant
+CUST01361,Loyal Customers
+CUST01362,Potential Loyalists
+CUST01363,Potential Loyalists
+CUST01364,Dormant
+CUST01365,Dormant
+CUST01366,At Risk
+CUST01367,Loyal Customers
+CUST01368,Dormant
+CUST01369,Loyal Customers
+CUST01370,Dormant
+CUST01371,Champions
+CUST01372,Potential Loyalists
+CUST01373,Loyal Customers
+CUST01374,Potential Loyalists
+CUST01375,Potential Loyalists
+CUST01376,Loyal Customers
+CUST01377,Loyal Customers
+CUST01378,At Risk
+CUST01379,Dormant
+CUST01380,Loyal Customers
+CUST01381,Champions
+CUST01382,Loyal Customers
+CUST01383,Champions
+CUST01384,Big Spenders
+CUST01385,Champions
+CUST01386,Champions
+CUST01387,Dormant
+CUST01388,Big Spenders
+CUST01389,Potential Loyalists
+CUST01390,Loyal Customers
+CUST01391,At Risk
+CUST01392,Loyal Customers
+CUST01393,Potential Loyalists
+CUST01394,Loyal Customers
+CUST01395,Loyal Customers
+CUST01396,Dormant
+CUST01397,Champions
+CUST01398,Loyal Customers
+CUST01399,Champions
+CUST01400,Dormant
+CUST01401,Potential Loyalists
+CUST01402,Dormant
+CUST01403,Dormant
+CUST01404,Dormant
+CUST01405,Dormant
+CUST01406,Dormant
+CUST01407,Dormant
+CUST01408,Dormant
+CUST01409,Loyal Customers
+CUST01410,Dormant
+CUST01411,Dormant
+CUST01412,At Risk
+CUST01413,Dormant
+CUST01414,Loyal Customers
+CUST01415,Loyal Customers
+CUST01416,Loyal Customers
+CUST01417,Dormant
+CUST01418,Dormant
+CUST01419,Loyal Customers
+CUST01420,Big Spenders
+CUST01421,Loyal Customers
+CUST01422,Loyal Customers
+CUST01423,Loyal Customers
+CUST01424,Big Spenders
+CUST01425,Loyal Customers
+CUST01426,Loyal Customers
+CUST01427,Champions
+CUST01428,Loyal Customers
+CUST01429,Loyal Customers
+CUST01430,Champions
+CUST01431,Loyal Customers
+CUST01432,At Risk
+CUST01433,At Risk
+CUST01434,Loyal Customers
+CUST01435,Dormant
+CUST01436,Champions
+CUST01437,Dormant
+CUST01438,Big Spenders
+CUST01439,Champions
+CUST01440,Champions
+CUST01441,Dormant
+CUST01442,Big Spenders
+CUST01443,Champions
+CUST01444,Loyal Customers
+CUST01445,At Risk
+CUST01446,Dormant
+CUST01447,Champions
+CUST01448,Dormant
+CUST01449,Loyal Customers
+CUST01450,Dormant
+CUST01451,Loyal Customers
+CUST01452,At Risk
+CUST01453,Potential Loyalists
+CUST01454,Big Spenders
+CUST01455,Dormant
+CUST01456,Loyal Customers
+CUST01457,Dormant
+CUST01458,Loyal Customers
+CUST01459,Potential Loyalists
+CUST01460,Dormant
+CUST01461,At Risk
+CUST01462,Potential Loyalists
+CUST01463,Dormant
+CUST01464,Loyal Customers
+CUST01465,Loyal Customers
+CUST01466,Loyal Customers
+CUST01467,Potential Loyalists
+CUST01468,Dormant
+CUST01469,Loyal Customers
+CUST01470,Dormant
+CUST01471,Big Spenders
+CUST01472,Champions
+CUST01473,Loyal Customers
+CUST01474,Potential Loyalists
+CUST01475,At Risk
+CUST01476,Dormant
+CUST01477,Loyal Customers
+CUST01478,Loyal Customers
+CUST01479,Loyal Customers
+CUST01480,Dormant
+CUST01481,Dormant
+CUST01482,Dormant
+CUST01483,Loyal Customers
+CUST01484,At Risk
+CUST01485,Big Spenders
+CUST01486,Loyal Customers
+CUST01487,Dormant
+CUST01488,Loyal Customers
+CUST01489,Loyal Customers
+CUST01490,Dormant
+CUST01491,Potential Loyalists
+CUST01492,Big Spenders
+CUST01493,Loyal Customers
+CUST01494,Dormant
+CUST01495,Big Spenders
+CUST01496,Loyal Customers
+CUST01497,Loyal Customers
+CUST01498,Champions
+CUST01499,Dormant
+CUST01500,At Risk
+CUST01501,Potential Loyalists
+CUST01502,Potential Loyalists
+CUST01503,Potential Loyalists
+CUST01504,Dormant
+CUST01505,Potential Loyalists
+CUST01506,Dormant
+CUST01507,Big Spenders
+CUST01508,Loyal Customers
+CUST01509,Loyal Customers
+CUST01510,Dormant
+CUST01511,Big Spenders
+CUST01512,Loyal Customers
+CUST01513,Dormant
+CUST01514,Potential Loyalists
+CUST01515,Big Spenders
+CUST01516,Dormant
+CUST01517,Potential Loyalists
+CUST01518,Dormant
+CUST01519,Big Spenders
+CUST01520,Loyal Customers
+CUST01521,Loyal Customers
+CUST01522,Potential Loyalists
+CUST01523,Champions
+CUST01524,Champions
+CUST01525,Loyal Customers
+CUST01526,Champions
+CUST01527,Dormant
+CUST01528,At Risk
+CUST01529,Dormant
+CUST01530,Dormant
+CUST01531,Dormant
+CUST01532,Dormant
+CUST01533,Dormant
+CUST01534,Loyal Customers
+CUST01535,Champions
+CUST01536,Loyal Customers
+CUST01537,Dormant
+CUST01538,Potential Loyalists
+CUST01539,Dormant
+CUST01540,Dormant
+CUST01541,Potential Loyalists
+CUST01542,Loyal Customers
+CUST01543,Dormant
+CUST01544,At Risk
+CUST01545,At Risk
+CUST01546,Loyal Customers
+CUST01547,At Risk
+CUST01548,Loyal Customers
+CUST01549,Dormant
+CUST01550,At Risk
+CUST01551,Potential Loyalists
+CUST01552,At Risk
+CUST01553,Dormant
+CUST01554,Big Spenders
+CUST01555,Loyal Customers
+CUST01556,Loyal Customers
+CUST01557,Loyal Customers
+CUST01558,Dormant
+CUST01559,At Risk
+CUST01560,Loyal Customers
+CUST01561,Dormant
+CUST01562,Loyal Customers
+CUST01563,Loyal Customers
+CUST01564,Dormant
+CUST01565,Loyal Customers
+CUST01566,Loyal Customers
+CUST01567,Dormant
+CUST01568,Dormant
+CUST01569,Potential Loyalists
+CUST01570,Dormant
+CUST01571,Dormant
+CUST01572,Dormant
+CUST01573,Big Spenders
+CUST01574,Big Spenders
+CUST01575,Dormant
+CUST01576,Potential Loyalists
+CUST01577,At Risk
+CUST01578,Loyal Customers
+CUST01579,Loyal Customers
+CUST01580,Loyal Customers
+CUST01581,Champions
+CUST01582,Loyal Customers
+CUST01583,Dormant
+CUST01584,Loyal Customers
+CUST01585,Loyal Customers
+CUST01586,Loyal Customers
+CUST01587,Dormant
+CUST01588,Dormant
+CUST01589,Dormant
+CUST01590,Dormant
+CUST01591,Big Spenders
+CUST01592,At Risk
+CUST01593,Loyal Customers
+CUST01594,Loyal Customers
+CUST01595,Loyal Customers
+CUST01596,Loyal Customers
+CUST01597,Loyal Customers
+CUST01598,Potential Loyalists
+CUST01599,Potential Loyalists
+CUST01600,Loyal Customers
+CUST01601,Loyal Customers
+CUST01602,Loyal Customers
+CUST01603,Dormant
+CUST01604,Loyal Customers
+CUST01605,Loyal Customers
+CUST01606,Dormant
+CUST01607,Dormant
+CUST01608,Loyal Customers
+CUST01609,Potential Loyalists
+CUST01610,Big Spenders
+CUST01611,Champions
+CUST01612,Dormant
+CUST01613,Dormant
+CUST01614,At Risk
+CUST01615,Champions
+CUST01616,Dormant
+CUST01617,Potential Loyalists
+CUST01618,Potential Loyalists
+CUST01619,Loyal Customers
+CUST01620,Champions
+CUST01621,Champions
+CUST01622,Loyal Customers
+CUST01623,Dormant
+CUST01624,Big Spenders
+CUST01625,Loyal Customers
+CUST01626,Champions
+CUST01627,Dormant
+CUST01628,Dormant
+CUST01629,Potential Loyalists
+CUST01630,Champions
+CUST01631,Champions
+CUST01632,Loyal Customers
+CUST01633,Loyal Customers
+CUST01634,Loyal Customers
+CUST01635,Loyal Customers
+CUST01636,Loyal Customers
+CUST01637,Champions
+CUST01638,Loyal Customers
+CUST01639,Dormant
+CUST01640,At Risk
+CUST01641,At Risk
+CUST01642,Champions
+CUST01643,Dormant
+CUST01644,At Risk
+CUST01645,Big Spenders
+CUST01646,Big Spenders
+CUST01647,Champions
+CUST01648,Dormant
+CUST01649,Dormant
+CUST01650,At Risk
+CUST01651,Potential Loyalists
+CUST01652,Loyal Customers
+CUST01653,Potential Loyalists
+CUST01654,At Risk
+CUST01655,Loyal Customers
+CUST01656,Champions
+CUST01657,Dormant
+CUST01658,Loyal Customers
+CUST01659,At Risk
+CUST01660,Champions
+CUST01661,Dormant
+CUST01662,Loyal Customers
+CUST01663,Champions
+CUST01664,Potential Loyalists
+CUST01665,Potential Loyalists
+CUST01666,Dormant
+CUST01667,Dormant
+CUST01668,Big Spenders
+CUST01669,Dormant
+CUST01670,Champions
+CUST01671,Big Spenders
+CUST01672,Loyal Customers
+CUST01673,Loyal Customers
+CUST01674,At Risk
+CUST01675,Dormant
+CUST01676,Dormant
+CUST01677,Champions
+CUST01678,Loyal Customers
+CUST01679,Loyal Customers
+CUST01680,Loyal Customers
+CUST01681,Loyal Customers
+CUST01682,Dormant
+CUST01683,Champions
+CUST01684,Big Spenders
+CUST01685,Dormant
+CUST01686,Dormant
+CUST01687,Potential Loyalists
+CUST01688,Dormant
+CUST01689,Potential Loyalists
+CUST01690,Potential Loyalists
+CUST01691,Potential Loyalists
+CUST01692,Dormant
+CUST01693,Loyal Customers
+CUST01694,Loyal Customers
+CUST01695,Potential Loyalists
+CUST01696,Dormant
+CUST01697,Potential Loyalists
+CUST01698,Big Spenders
+CUST01699,Dormant
+CUST01700,Champions
+CUST01701,Loyal Customers
+CUST01702,Dormant
+CUST01703,Champions
+CUST01704,Loyal Customers
+CUST01705,Champions
+CUST01706,Champions
+CUST01707,Loyal Customers
+CUST01708,Loyal Customers
+CUST01709,Dormant
+CUST01710,Loyal Customers
+CUST01711,At Risk
+CUST01712,Loyal Customers
+CUST01713,Loyal Customers
+CUST01714,Dormant
+CUST01715,Dormant
+CUST01716,Loyal Customers
+CUST01717,Big Spenders
+CUST01718,Dormant
+CUST01719,Dormant
+CUST01720,Loyal Customers
+CUST01721,Loyal Customers
+CUST01722,Loyal Customers
+CUST01723,Champions
+CUST01724,Loyal Customers
+CUST01725,Loyal Customers
+CUST01726,Champions
+CUST01727,Loyal Customers
+CUST01728,Loyal Customers
+CUST01729,Champions
+CUST01730,At Risk
+CUST01731,At Risk
+CUST01732,Champions
+CUST01733,Big Spenders
+CUST01734,Dormant
+CUST01735,Potential Loyalists
+CUST01736,Champions
+CUST01737,Loyal Customers
+CUST01738,Loyal Customers
+CUST01739,Potential Loyalists
+CUST01740,Loyal Customers
+CUST01741,Loyal Customers
+CUST01742,Dormant
+CUST01743,Potential Loyalists
+CUST01744,At Risk
+CUST01745,Dormant
+CUST01746,Dormant
+CUST01747,Loyal Customers
+CUST01748,Loyal Customers
+CUST01749,Dormant
+CUST01750,Dormant
+CUST01751,Potential Loyalists
+CUST01752,Dormant
+CUST01753,Loyal Customers
+CUST01754,Loyal Customers
+CUST01755,Dormant
+CUST01756,Potential Loyalists
+CUST01757,Dormant
+CUST01758,Potential Loyalists
+CUST01759,Potential Loyalists
+CUST01760,Big Spenders
+CUST01761,Big Spenders
+CUST01762,Big Spenders
+CUST01763,Loyal Customers
+CUST01764,Loyal Customers
+CUST01765,Dormant
+CUST01766,Dormant
+CUST01767,Dormant
+CUST01768,At Risk
+CUST01769,Loyal Customers
+CUST01770,Loyal Customers
+CUST01771,Loyal Customers
+CUST01772,Dormant
+CUST01773,Dormant
+CUST01774,Big Spenders
+CUST01775,Loyal Customers
+CUST01776,Potential Loyalists
+CUST01777,Dormant
+CUST01778,Potential Loyalists
+CUST01779,Dormant
+CUST01780,Champions
+CUST01781,Dormant
+CUST01782,Dormant
+CUST01783,Loyal Customers
+CUST01784,Potential Loyalists
+CUST01785,Loyal Customers
+CUST01786,Champions
+CUST01787,Potential Loyalists
+CUST01788,Loyal Customers
+CUST01789,Loyal Customers
+CUST01790,Loyal Customers
+CUST01791,Potential Loyalists
+CUST01792,Loyal Customers
+CUST01793,Loyal Customers
+CUST01794,Champions
+CUST01795,Potential Loyalists
+CUST01796,Loyal Customers
+CUST01797,At Risk
+CUST01798,At Risk
+CUST01799,Potential Loyalists
+CUST01800,Dormant
+CUST01801,Loyal Customers
+CUST01802,Dormant
+CUST01803,At Risk
+CUST01804,Dormant
+CUST01805,Loyal Customers
+CUST01806,Loyal Customers
+CUST01807,Potential Loyalists
+CUST01808,Loyal Customers
+CUST01809,Loyal Customers
+CUST01810,Loyal Customers
+CUST01811,Big Spenders
+CUST01812,Champions
+CUST01813,Champions
+CUST01814,Loyal Customers
+CUST01815,Loyal Customers
+CUST01816,Dormant
+CUST01817,Dormant
+CUST01818,Dormant
+CUST01819,Potential Loyalists
+CUST01820,Champions
+CUST01821,Loyal Customers
+CUST01822,Loyal Customers
+CUST01823,Loyal Customers
+CUST01824,Dormant
+CUST01825,Loyal Customers
+CUST01826,Loyal Customers
+CUST01827,Loyal Customers
+CUST01828,Dormant
+CUST01829,Big Spenders
+CUST01830,Loyal Customers
+CUST01831,Loyal Customers
+CUST01832,Big Spenders
+CUST01833,Champions
+CUST01834,Loyal Customers
+CUST01835,Dormant
+CUST01836,Dormant
+CUST01837,Potential Loyalists
+CUST01838,Potential Loyalists
+CUST01839,Loyal Customers
+CUST01840,At Risk
+CUST01841,Champions
+CUST01842,Dormant
+CUST01843,Champions
+CUST01844,Dormant
+CUST01845,Dormant
+CUST01846,Potential Loyalists
+CUST01847,Loyal Customers
+CUST01848,Champions
+CUST01849,Loyal Customers
+CUST01850,Loyal Customers
+CUST01851,Dormant
+CUST01852,Loyal Customers
+CUST01853,Dormant
+CUST01854,Dormant
+CUST01855,Big Spenders
+CUST01856,Dormant
+CUST01857,Potential Loyalists
+CUST01858,Loyal Customers
+CUST01859,Loyal Customers
+CUST01860,Loyal Customers
+CUST01861,Champions
+CUST01862,Champions
+CUST01863,Dormant
+CUST01864,Dormant
+CUST01865,Loyal Customers
+CUST01866,Potential Loyalists
+CUST01867,Loyal Customers
+CUST01868,Potential Loyalists
+CUST01869,Loyal Customers
+CUST01870,At Risk
+CUST01871,At Risk
+CUST01872,Loyal Customers
+CUST01873,Loyal Customers
+CUST01874,Loyal Customers
+CUST01875,Potential Loyalists
+CUST01876,Dormant
+CUST01877,Loyal Customers
+CUST01878,Loyal Customers
+CUST01879,Loyal Customers
+CUST01880,Dormant
+CUST01881,Loyal Customers
+CUST01882,Dormant
+CUST01883,Loyal Customers
+CUST01884,Dormant
+CUST01885,Champions
+CUST01886,Potential Loyalists
+CUST01887,Dormant
+CUST01888,Loyal Customers
+CUST01889,Potential Loyalists
+CUST01890,Dormant
+CUST01891,Dormant
+CUST01892,Loyal Customers
+CUST01893,Loyal Customers
+CUST01894,Dormant
+CUST01895,Dormant
+CUST01896,Potential Loyalists
+CUST01897,Loyal Customers
+CUST01898,Dormant
+CUST01899,Loyal Customers
+CUST01900,Potential Loyalists
+CUST01901,Dormant
+CUST01902,Loyal Customers
+CUST01903,Loyal Customers
+CUST01904,Loyal Customers
+CUST01905,Champions
+CUST01906,Potential Loyalists
+CUST01907,Loyal Customers
+CUST01908,Dormant
+CUST01909,Loyal Customers
+CUST01910,Dormant
+CUST01911,Loyal Customers
+CUST01912,Loyal Customers
+CUST01913,Potential Loyalists
+CUST01914,Big Spenders
+CUST01915,Dormant
+CUST01916,Loyal Customers
+CUST01917,Dormant
+CUST01918,Dormant
+CUST01919,Loyal Customers
+CUST01920,Dormant
+CUST01921,Potential Loyalists
+CUST01922,Champions
+CUST01923,Dormant
+CUST01924,Potential Loyalists
+CUST01925,Loyal Customers
+CUST01926,Dormant
+CUST01927,Dormant
+CUST01928,Loyal Customers
+CUST01929,Dormant
+CUST01930,Loyal Customers
+CUST01931,Loyal Customers
+CUST01932,Loyal Customers
+CUST01933,Loyal Customers
+CUST01934,Loyal Customers
+CUST01935,Loyal Customers
+CUST01936,Loyal Customers
+CUST01937,At Risk
+CUST01938,Loyal Customers
+CUST01939,Loyal Customers
+CUST01940,Loyal Customers
+CUST01941,Loyal Customers
+CUST01942,Dormant
+CUST01943,Loyal Customers
+CUST01944,Loyal Customers
+CUST01945,At Risk
+CUST01946,At Risk
+CUST01947,Dormant
+CUST01948,Dormant
+CUST01949,Dormant
+CUST01950,Dormant
+CUST01951,Dormant
+CUST01952,Dormant
+CUST01953,Dormant
+CUST01954,Loyal Customers
+CUST01955,Champions
+CUST01956,Potential Loyalists
+CUST01957,Dormant
+CUST01958,At Risk
+CUST01959,Loyal Customers
+CUST01960,Loyal Customers
+CUST01961,Potential Loyalists
+CUST01962,Dormant
+CUST01963,At Risk
+CUST01964,Loyal Customers
+CUST01965,Dormant
+CUST01966,Loyal Customers
+CUST01967,Loyal Customers
+CUST01968,Loyal Customers
+CUST01969,Potential Loyalists
+CUST01970,Potential Loyalists
+CUST01971,Champions
+CUST01972,Champions
+CUST01973,Potential Loyalists
+CUST01974,Loyal Customers
+CUST01975,Loyal Customers
+CUST01976,Big Spenders
+CUST01977,Potential Loyalists
+CUST01978,Dormant
+CUST01979,Potential Loyalists
+CUST01980,Champions
+CUST01981,Potential Loyalists
+CUST01982,Loyal Customers
+CUST01983,Potential Loyalists
+CUST01984,Champions
+CUST01985,Potential Loyalists
+CUST01986,Champions
+CUST01987,Dormant
+CUST01988,Loyal Customers
+CUST01989,Potential Loyalists
+CUST01990,Loyal Customers
+CUST01991,Potential Loyalists
+CUST01992,Loyal Customers
+CUST01993,Champions
+CUST01994,Potential Loyalists
+CUST01995,Dormant
+CUST01996,Dormant
+CUST01997,Loyal Customers
+CUST01998,Champions
+CUST01999,Potential Loyalists
+CUST02000,At Risk
+CUST02001,Loyal Customers
+CUST02002,Champions
+CUST02003,Dormant
+CUST02004,Loyal Customers
+CUST02005,Loyal Customers
+CUST02006,At Risk
+CUST02007,Dormant
+CUST02008,Dormant
+CUST02009,Loyal Customers
+CUST02010,Big Spenders
+CUST02011,Dormant
+CUST02012,Loyal Customers
+CUST02013,Loyal Customers
+CUST02014,Loyal Customers
+CUST02015,Dormant
+CUST02016,Loyal Customers
+CUST02017,Potential Loyalists
+CUST02018,Loyal Customers
+CUST02019,Loyal Customers
+CUST02020,Loyal Customers
+CUST02021,Champions
+CUST02022,Loyal Customers
+CUST02023,Loyal Customers
+CUST02024,Champions
+CUST02025,Loyal Customers
+CUST02026,Loyal Customers
+CUST02027,Champions
+CUST02028,Dormant
+CUST02029,Potential Loyalists
+CUST02030,Champions
+CUST02031,Dormant
+CUST02032,Dormant
+CUST02033,At Risk
+CUST02034,Loyal Customers
+CUST02035,Big Spenders
+CUST02036,Loyal Customers
+CUST02037,Loyal Customers
+CUST02038,Dormant
+CUST02039,Dormant
+CUST02040,Loyal Customers
+CUST02041,Champions
+CUST02042,Big Spenders
+CUST02043,Loyal Customers
+CUST02044,Champions
+CUST02045,At Risk
+CUST02046,Dormant
+CUST02047,Big Spenders
+CUST02048,Dormant
+CUST02049,Big Spenders
+CUST02050,Loyal Customers
+CUST02051,Big Spenders
+CUST02052,Loyal Customers
+CUST02053,Potential Loyalists
+CUST02054,Loyal Customers
+CUST02055,Big Spenders
+CUST02056,Dormant
+CUST02057,Champions
+CUST02058,Loyal Customers
+CUST02059,Loyal Customers
+CUST02060,Loyal Customers
+CUST02061,Big Spenders
+CUST02062,Dormant
+CUST02063,Loyal Customers
+CUST02064,Big Spenders
+CUST02065,Dormant
+CUST02066,Loyal Customers
+CUST02067,Loyal Customers
+CUST02068,Champions
+CUST02069,Dormant
+CUST02070,Potential Loyalists
+CUST02071,Loyal Customers
+CUST02072,Loyal Customers
+CUST02073,Loyal Customers
+CUST02074,Loyal Customers
+CUST02075,Dormant
+CUST02076,Dormant
+CUST02077,Potential Loyalists
+CUST02078,Champions
+CUST02079,Champions
+CUST02080,Dormant
+CUST02081,Dormant
+CUST02082,Dormant
+CUST02083,Champions
+CUST02084,Dormant
+CUST02085,Loyal Customers
+CUST02086,Loyal Customers
+CUST02087,Loyal Customers
+CUST02088,Loyal Customers
+CUST02089,Loyal Customers
+CUST02090,Potential Loyalists
+CUST02091,Loyal Customers
+CUST02092,Dormant
+CUST02093,Loyal Customers
+CUST02094,At Risk
+CUST02095,Dormant
+CUST02096,Loyal Customers
+CUST02097,Loyal Customers
+CUST02098,Dormant
+CUST02099,At Risk
+CUST02100,Loyal Customers
+CUST02101,Champions
+CUST02102,Loyal Customers
+CUST02103,Loyal Customers
+CUST02104,Loyal Customers
+CUST02105,Champions
+CUST02106,Loyal Customers
+CUST02107,Potential Loyalists
+CUST02108,Champions
+CUST02109,Champions
+CUST02110,Loyal Customers
+CUST02111,Dormant
+CUST02112,Dormant
+CUST02113,Dormant
+CUST02114,At Risk
+CUST02115,Dormant
+CUST02116,Dormant
+CUST02117,At Risk
+CUST02118,At Risk
+CUST02119,Loyal Customers
+CUST02120,Loyal Customers
+CUST02121,Loyal Customers
+CUST02122,Dormant
+CUST02123,At Risk
+CUST02124,Loyal Customers
+CUST02125,Dormant
+CUST02126,Dormant
+CUST02127,Dormant
+CUST02128,Loyal Customers
+CUST02129,Potential Loyalists
+CUST02130,Potential Loyalists
+CUST02131,At Risk
+CUST02132,Loyal Customers
+CUST02133,Loyal Customers
+CUST02134,Dormant
+CUST02135,Potential Loyalists
+CUST02136,Potential Loyalists
+CUST02137,Loyal Customers
+CUST02138,Dormant
+CUST02139,Loyal Customers
+CUST02140,Loyal Customers
+CUST02141,Big Spenders
+CUST02142,Potential Loyalists
+CUST02143,Potential Loyalists
+CUST02144,Dormant
+CUST02145,At Risk
+CUST02146,At Risk
+CUST02147,Dormant
+CUST02148,Dormant
+CUST02149,Big Spenders
+CUST02150,Dormant
+CUST02151,Loyal Customers
+CUST02152,At Risk
+CUST02153,Potential Loyalists
+CUST02154,Big Spenders
+CUST02155,Dormant
+CUST02156,Dormant
+CUST02157,Loyal Customers
+CUST02158,At Risk
+CUST02159,Champions
+CUST02160,Loyal Customers
+CUST02161,Dormant
+CUST02162,Champions
+CUST02163,Dormant
+CUST02164,Loyal Customers
+CUST02165,Loyal Customers
+CUST02166,Loyal Customers
+CUST02167,Loyal Customers
+CUST02168,Dormant
+CUST02169,Big Spenders
+CUST02170,Dormant
+CUST02171,At Risk
+CUST02172,Champions
+CUST02173,Champions
+CUST02174,Dormant
+CUST02175,Loyal Customers
+CUST02176,At Risk
+CUST02177,Dormant
+CUST02178,Loyal Customers
+CUST02179,Loyal Customers
+CUST02180,Dormant
+CUST02181,Loyal Customers
+CUST02182,Potential Loyalists
+CUST02183,Loyal Customers
+CUST02184,At Risk
+CUST02185,Dormant
+CUST02186,Dormant
+CUST02187,Dormant
+CUST02188,Dormant
+CUST02189,Big Spenders
+CUST02190,At Risk
+CUST02191,Dormant
+CUST02192,Loyal Customers
+CUST02193,Loyal Customers
+CUST02194,Big Spenders
+CUST02195,Big Spenders
+CUST02196,Dormant
+CUST02197,Loyal Customers
+CUST02198,At Risk
+CUST02199,Big Spenders
+CUST02200,Loyal Customers
+CUST02201,Dormant
+CUST02202,Loyal Customers
+CUST02203,Loyal Customers
+CUST02204,Dormant
+CUST02205,Dormant
+CUST02206,Dormant
+CUST02207,Champions
+CUST02208,Dormant
+CUST02209,Loyal Customers
+CUST02210,Dormant
+CUST02211,Loyal Customers
+CUST02212,Loyal Customers
+CUST02213,Loyal Customers
+CUST02214,Dormant
+CUST02215,Loyal Customers
+CUST02216,Potential Loyalists
+CUST02217,Loyal Customers
+CUST02218,Champions
+CUST02219,Loyal Customers
+CUST02220,Potential Loyalists
+CUST02221,Loyal Customers
+CUST02222,At Risk
+CUST02223,Loyal Customers
+CUST02224,Dormant
+CUST02225,Dormant
+CUST02226,Loyal Customers
+CUST02227,Loyal Customers
+CUST02228,Potential Loyalists
+CUST02229,Potential Loyalists
+CUST02230,Loyal Customers
+CUST02231,Potential Loyalists
+CUST02232,Loyal Customers
+CUST02233,At Risk
+CUST02234,Dormant
+CUST02235,Loyal Customers
+CUST02236,Dormant
+CUST02237,Loyal Customers
+CUST02238,Loyal Customers
+CUST02239,Loyal Customers
+CUST02240,Champions
+CUST02241,Big Spenders
+CUST02242,Dormant
+CUST02243,Dormant
+CUST02244,Champions
+CUST02245,Big Spenders
+CUST02246,Big Spenders
+CUST02247,Loyal Customers
+CUST02248,At Risk
+CUST02249,Potential Loyalists
+CUST02250,Loyal Customers
+CUST02251,Dormant
+CUST02252,Potential Loyalists
+CUST02253,Big Spenders
+CUST02254,At Risk
+CUST02255,Loyal Customers
+CUST02256,Loyal Customers
+CUST02257,Loyal Customers
+CUST02258,Dormant
+CUST02259,Loyal Customers
+CUST02260,Potential Loyalists
+CUST02261,Loyal Customers
+CUST02262,At Risk
+CUST02263,At Risk
+CUST02264,Loyal Customers
+CUST02265,Loyal Customers
+CUST02266,Loyal Customers
+CUST02267,Dormant
+CUST02268,Dormant
+CUST02269,Champions
+CUST02270,At Risk
+CUST02271,At Risk
+CUST02272,Loyal Customers
+CUST02273,Dormant
+CUST02274,Potential Loyalists
+CUST02275,Loyal Customers
+CUST02276,Dormant
+CUST02277,Dormant
+CUST02278,At Risk
+CUST02279,Champions
+CUST02280,Dormant
+CUST02281,At Risk
+CUST02282,Loyal Customers
+CUST02283,Dormant
+CUST02284,Loyal Customers
+CUST02285,Loyal Customers
+CUST02286,Dormant
+CUST02287,Big Spenders
+CUST02288,Loyal Customers
+CUST02289,Big Spenders
+CUST02290,Big Spenders
+CUST02291,Dormant
+CUST02292,Loyal Customers
+CUST02293,Dormant
+CUST02294,Loyal Customers
+CUST02295,Loyal Customers
+CUST02296,Potential Loyalists
+CUST02297,Loyal Customers
+CUST02298,Big Spenders
+CUST02299,At Risk
+CUST02300,Big Spenders
+CUST02301,Dormant
+CUST02302,Potential Loyalists
+CUST02303,Loyal Customers
+CUST02304,Loyal Customers
+CUST02305,Loyal Customers
+CUST02306,Big Spenders
+CUST02307,Loyal Customers
+CUST02308,At Risk
+CUST02309,Dormant
+CUST02310,Loyal Customers
+CUST02311,Dormant
+CUST02312,Dormant
+CUST02313,Dormant
+CUST02314,Loyal Customers
+CUST02315,Loyal Customers
+CUST02316,Loyal Customers
+CUST02317,Champions
+CUST02318,Potential Loyalists
+CUST02319,Loyal Customers
+CUST02320,At Risk
+CUST02321,Dormant
+CUST02322,Loyal Customers
+CUST02323,Potential Loyalists
+CUST02324,Dormant
+CUST02325,Loyal Customers
+CUST02326,Loyal Customers
+CUST02327,Dormant
+CUST02328,Loyal Customers
+CUST02329,Big Spenders
+CUST02330,Big Spenders
+CUST02331,Champions
+CUST02332,Champions
+CUST02333,Loyal Customers
+CUST02334,Champions
+CUST02335,Loyal Customers
+CUST02336,Potential Loyalists
+CUST02337,Champions
+CUST02338,Loyal Customers
+CUST02339,Loyal Customers
+CUST02340,Champions
+CUST02341,Loyal Customers
+CUST02342,Loyal Customers
+CUST02343,Loyal Customers
+CUST02344,Loyal Customers
+CUST02345,Loyal Customers
+CUST02346,Loyal Customers
+CUST02347,At Risk
+CUST02348,Big Spenders
+CUST02349,Loyal Customers
+CUST02350,Big Spenders
+CUST02351,Dormant
+CUST02352,Loyal Customers
+CUST02353,Dormant
+CUST02354,Loyal Customers
+CUST02355,Loyal Customers
+CUST02356,Loyal Customers
+CUST02357,Champions
+CUST02358,Potential Loyalists
+CUST02359,Champions
+CUST02360,Loyal Customers
+CUST02361,Loyal Customers
+CUST02362,Champions
+CUST02363,Champions
+CUST02364,Dormant
+CUST02365,Champions
+CUST02366,Dormant
+CUST02367,Big Spenders
+CUST02368,Dormant
+CUST02369,Loyal Customers
+CUST02370,Loyal Customers
+CUST02371,Loyal Customers
+CUST02372,Loyal Customers
+CUST02373,Loyal Customers
+CUST02374,Potential Loyalists
+CUST02375,Potential Loyalists
+CUST02376,Loyal Customers
+CUST02377,Loyal Customers
+CUST02378,Loyal Customers
+CUST02379,At Risk
+CUST02380,Dormant
+CUST02381,Loyal Customers
+CUST02382,Potential Loyalists
+CUST02383,At Risk
+CUST02384,Potential Loyalists
+CUST02385,Loyal Customers
+CUST02386,Champions
+CUST02387,At Risk
+CUST02388,Loyal Customers
+CUST02389,Dormant
+CUST02390,Dormant
+CUST02391,Loyal Customers
+CUST02392,At Risk
+CUST02393,Dormant
+CUST02394,Loyal Customers
+CUST02395,Dormant
+CUST02396,At Risk
+CUST02397,Loyal Customers
+CUST02398,Loyal Customers
+CUST02399,Dormant
+CUST02400,At Risk
